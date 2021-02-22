@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-:man_technologist: I’m currently working in [Trend Micro](https://github.com/trendmicro).
-:e-mail: Reach me at carpusher_wu@trendmicro.com
-:speech_balloon: Ask me about `Cloud One File Storage Security`.
+- :man_technologist: I’m currently working in [Trend Micro](https://github.com/trendmicro).
+- :e-mail: Reach me at carpusher_wu@trendmicro.com
+- :speech_balloon: Ask me about `Cloud One File Storage Security`.
 
 <!--
 **carpusherw/carpusherw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
