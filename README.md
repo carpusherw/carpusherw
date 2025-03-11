@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :man_technologist: I’m currently working in [GoFreight](https://github.com/carpusherw).
+- :man_technologist: I’m currently working at [GoFreight](https://www.gofreight.com/).
 - :e-mail: Reach me at carpusher.wu@gofeight.com.
 
 <!--
